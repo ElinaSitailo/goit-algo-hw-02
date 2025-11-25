@@ -26,11 +26,12 @@ if __name__ == "__main__":
         "A man a plan a canal Panama",
         "Cigar? Toss it in a can. It is so tragic.",
         "racecar",
-        "hello",
         "Was it a car or a cat I saw",
         "No 'x' in Nixon",
         "Жарт – суму страж",
         "кит на морі романтик",
+        
+         "hello",
         "Не паліндром"
     ]
     for s in test_strings:
